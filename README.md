@@ -199,8 +199,11 @@ while True :
  ````
 
 3. Berikut adalah hasilnya
+
 ![Hasil Praktikum 5 1](https://user-images.githubusercontent.com/123864099/217015737-cd8c4c19-80b7-464d-98f2-94035bb4a5cb.PNG)
+
 ![Hasil Praktikum 5 2](https://user-images.githubusercontent.com/123864099/217015617-c50e9d14-f776-4477-9bc3-93a5b8d0bfae.PNG)
+
 ![Hasil Praktikum 5 3](https://user-images.githubusercontent.com/123864099/217015664-2cba80df-912d-409e-9490-648045a5dc67.PNG)
 
 
