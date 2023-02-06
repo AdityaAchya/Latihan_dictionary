@@ -1,5 +1,5 @@
 # Latihan_dictionary
-Repository ini dibuat untuk memenuhi tugas pertemuan 4 - Bahasa Pemrograman
+Repository ini dibuat untuk memenuhi tugas pertemuan 10 - Bahasa Pemrograman
 
 Nama : Aditya Achya Ananta Nur
 
@@ -52,8 +52,7 @@ print(dict)
 
 ```
 3. Berikut adalah hasilnya
-<img width="568" alt="foto 1" src="https://user-images.githubusercontent.com/115473988/204161395-3434d5f9-6558-415e-bbc6-a4e0e0b8db65.png">
-
+![Praktikum5 1](https://user-images.githubusercontent.com/123864099/217010866-0d3aac3b-fb74-47b8-ac67-1419bfbb4bf9.PNG)
 
 
 # Tugas Praktikum
@@ -200,7 +199,12 @@ while True :
  ````
 
 3. Berikut adalah hasilnya
-<img width="466" alt="foto 3" src="https://user-images.githubusercontent.com/115473988/204161726-34e3b71b-b40c-4508-9b29-b3527c8c3d56.png">
-<img width="484" alt="foto 4" src="https://user-images.githubusercontent.com/115473988/204161729-fb5366a5-3a0e-4dbe-a6a8-30a7166ac8a0.png">
-<img width="584" alt="foto 5" src="https://user-images.githubusercontent.com/115473988/204161730-50e80ee7-5086-4d26-9481-17cf9227cbe2.png">
-<img width="569" alt="foto 6" src="https://user-images.githubusercontent.com/115473988/204161731-ee2142cd-dd8d-4ab9-8668-6fef2645fa1d.png">
+![Hasil Praktikum 5 1](https://user-images.githubusercontent.com/123864099/217015737-cd8c4c19-80b7-464d-98f2-94035bb4a5cb.PNG)
+![Hasil Praktikum 5 2](https://user-images.githubusercontent.com/123864099/217015617-c50e9d14-f776-4477-9bc3-93a5b8d0bfae.PNG)
+![Hasil Praktikum 5 3](https://user-images.githubusercontent.com/123864099/217015664-2cba80df-912d-409e-9490-648045a5dc67.PNG)
+
+
+
+## TERIMA KASIH
+### ADITYA ACHYA ANANTA NUR - 312210714 - TI.22.C. - TEKNIK INFORMATIKA - UNIVERSITAS PELITA BANGSA
+
